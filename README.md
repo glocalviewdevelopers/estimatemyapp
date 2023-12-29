@@ -9,6 +9,10 @@ Clients have the option to receive detailed estimates for their project, assessi
 - An interactive quiz is employed to ensure a comprehensive understanding of the client's requirements.
 - This approach enables us to deliver accurate and tailored estimates specifically designed for web solutions and mobile apps.
 
+# Platforms:
+- Web
+
+
 # Technologies Used: 
 -  Node.js
 -  React.js
