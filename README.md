@@ -1,8 +1,7 @@
 # estimatemyapp
 http://ema.glocalview.in
 
-# Description: 
-
+# Description:
 Clients have the option to receive detailed estimates for their project, assessing both time and cost factors when choosing to collaborate with us. Utilize our app cost estimation tool by selecting relevant features for your web solution or mobile app. The interactive quiz covers aspects such as app size, desired UI complexity, user management, content creation, scheduling, social features, billing, external integrations, security, and analytics. Following the quiz, users can submit their name and email to receive a personalized project cost estimate.  
 
 # Purpose: 
